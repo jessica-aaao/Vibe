@@ -127,7 +127,7 @@ while True:
 		hasPlaylist = 1
 
 	#Se a pessoa responder que quer escutar a playlist	
-	if (hasPlaylist == 1 and message == sim):
+	if (hasPlaylist == 1 and message == "sim"):
 		print(f'\n{vibe.name}: Aqui está a sua playlist \n   {url}\n')
 		hasPlaylist = 0
 	
