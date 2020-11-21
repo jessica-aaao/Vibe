@@ -1,0 +1,123 @@
+{"start":[
+	["olá, vibe" , "Olá, como você está?"],
+	["olá, vibe", "Olá, pessoa maravilhosa!!! Como estamos hoje? Me conta"],
+	["olá, vibe", "Hello! It's me... :D Como você está hoje, raio de sol?"],
+	["oi " , "Opa, e aí, como estamos hoje?"],
+	["oi", "Olá, que bom que você chegou para alegrar o meu viver!! Como está?"],
+	["oi", "Oiê, como está esse humor hoje hein? Me conta..."]
+],
+
+"conversinha":[
+	["estou bem! e você?" , "Estou ótimo!Obrigado por perguntar!! Como está seu humor hoje? "],
+	["muito boa" , "hehehe, sabia que iria gostar! Eu arraso muito!!"],
+	["você é demais" , "Ai para, assim eu fico sem graça, você que é maravilhose!! S2" ],
+	["valeu" , "Tamo junto!!" ],
+	["bom dia!" , "Bom diaaaa! Como estamos hoje??"],
+	["boa tarde!" , "Boa tarde! Qual a boa?" ],
+	["obrigado" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ], 
+	["obrigada" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],  
+	["obrigade" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],
+	["não" , "Que pena, fica pra próxima então!"],
+	["não", "Que rude, desprezar minhas indicações maravilhosas dessa forma, quem sai perdendo é você... rum"],
+	["não" , "Que não o que, rapá..." ],
+	["não" , "Tá bom, eu nem ia te enviar mesmo!!" ]
+],
+
+"feliz":[
+	["feliz", "Because I'm HAPPY... Que tal algumas indicações pra ajudar a manter esse humorzão?\n[digite 'sim' para receber indicações]"], 
+	["feliz", "Já dizia Seu Jorge: 'Felicidade é viver na sua companhia...Felicidade é estar contigo todo dia'. Bora turbinar essa felicidade?\n[digite 'sim' para receber indicações]"], 
+	["feliz", "'Você vai rir, sem perceber... Felicidade é só questão de ser'. Vamos ser feliz escutando umas músicas??\n[digite 'sim' para receber indicações]"]
+],
+
+"triste":[
+	["triste", "Nossa, que bad! Quando tô pra baixo gosto de escutar uma musiquinha pra dar aquele sacode na tristeza, que tal?\n[digite 'sim' para receber indicações]"],
+	["triste", "Eita, se tiver como te ajudar, pode falar, tá? Que tal uma playlist pra tentar alegrar esse coraçãozinho precioso?\n[digite 'sim' para receber indicações]" ], 
+	["triste", "'Levanta sacode a poeira, dá a volta por cima...' Quer umas músicas pra levantar esse astral?\n[digite 'sim' para receber indicações]"]
+],
+
+"ansiose":[
+	["ansiose", "Mas Por que? O que houve? Acho que eu tenho uma indicação pra você ficar relax... \n[digite 'sim' para receber indicações]" ],
+	["ansiose", "Ai eu odeio quando to assim!! Posso te indicar umas músicas pra tentar te ajudar?\n[digite 'sim' para receber indicações]"],
+	["ansiose", "Poxa, eu sinto muito que você esteja se sentindo assim!! Que tal uma playlist pra afastar um pouco esse sentimento?\n[digite 'sim' para receber indicações]"]
+],
+
+"com raiva":[
+	["com raiva", "o.o, Raiva de mim não né? Umas musiquinhas pra dissipar essa energia ruim aí, cairia bem agora, não acha?\n[digite 'sim' para receber indicações]" ],
+	["com raiva", "'Mas foi na hora da raiva...Na hora, na hora da raiva...' Que eu escutei uma música e a raiva passou. Bora se acalmar, jovem?\n[digite 'sim' para receber indicações]"],
+	["com raiva", "Respira... Conta até dez, bora, comigo: 1...2... Ajudou não? Que tal uma musiquinha então?\n[digite 'sim' para receber indicações]"]
+],
+
+"estressade":[
+	["estressade", "Dia cansativo? Muita gente chata? 'Só de olhar teus olhos, baby eu fico zen...' Vai uma playlist aí pra ficar zen igual a Anitta?\n[digite 'sim' para receber indicações]"],
+	["estressade", "Eu tenho uma playlist perfeita pra melhorar isso, quer?\n[digite 'sim' para receber indicações]"],
+	["estressade", "Huumm tá estressadinhe tá? Se quiser tenho a solução musical e visual perfeita, quer?\n[digite 'sim' para receber indicações]"]
+],
+
+"nostalgicx":[
+	["nostalgicx", "Ai ai, quando bate a nostalgia... que tal relembrar o que já foi e deixou saudade?\n[digite 'sim' para receber indicações]"],
+	["nostalgicx", "Tem dias, que dá saudade do que já passou ne? Que tal uma seleção musical pra embalar essa nostalgia aí hein?\n[digite 'sim' para receber indicações]"],
+	["nostalgicx", "Ahh bons tempos aqueles... Tenho umas músicas aqui que sempre me trazem lembranças, quer ouvir?\n[digite 'sim' para receber indicações]"]
+],
+
+"tense":[
+	["tense", "Eu não consigo fazer massagem e nem entendo de acupuntura, massss... que tal uma musiquinha pra relaxaar?\n[digite 'sim' para receber indicações]"],
+	["tense", "Respira, alonga e coloca uma musiquinha pra liberar essa tensão. Tenho até umas perfeitas aqui, quer?\n[digite 'sim' para receber indicações]"],
+	["tense", "Eita, tenho umas indicações aqui que podem te ajudar a liberar essa tensão, que tal?\n[digite 'sim' para receber indicações]"]
+],
+
+"calme":[
+	["calme", "Então puxa aquela rede ou aquele sofázinho, que eu tenho uma playlist perfeita pra esse momento. Que tal?\n[digite 'sim' para receber indicações]"],
+	["calme", "Só falta uma musiquinha bem 'chill vibes' pra melhorar ainda mais não é?\n[digite 'sim' para receber indicações]"],
+	["calme", "Ai que coisa boa, que tal uma musiquinha bem good vibes pra combinar com esse humor hein?\n[digite 'sim' para receber indicações]"]
+],
+
+"relaxade":[
+	["relaxade", "Opa, aí sim hein? Posso mandar aquela playlist, para esse ser humaninho se manter zen?\n[digite 'sim' para receber indicações]"],
+	["relaxade", "Só na paz e amor? Que tal aproveitar pra ouvir um som?\n[digite 'sim' para receber indicações]"],
+	["relaxade", "Isso é o que eu chamo de dia bom!! Eu estou ouvindo umas músicas que vão ser perfeitas ṕra você escutar hoje, quer?\n[digite 'sim' para receber indicações]"]
+
+],
+
+"cansade":[
+	["cansade", "Tem dias que a gente só quer uma cama pra deitar ne? Super te entendo, que tal aquela playlist pra embalar teu sono?"],
+	["cansade", "Poxa, espero que você consiga descansar logo. Mas eu tenho algo aqui que pode te ajudar, que ouvir?\n[digite 'sim' para receber indicações]"],
+	["cansade", "Ai, hoje eu também estou bem cansadinho. Tava escutando umas músicas que acho que você vai curtir, posso te mandar?\n[digite 'sim' para receber indicações]"]
+],
+
+"animade":[
+	["animade", "Animada é uma playlist que eu tenho aqui, quer dar uma olhada?\n[digite 'sim' para receber indicações]"],
+	["animade", "E vamos de tunts tunts tunts tunts?\n[digite 'sim' para receber indicações]"],
+	["animade", "Uhuuuul é assim que eu gosto de te ver!!! Eu descobri umas músicas tão legais, quer ouvir?\n[digite 'sim' para receber indicações]"]
+],
+
+"preocupade":[
+	["preocupade", "'Don't worry about a thing... 'Cause every little thing gonna be alright'. Posso te indicar uma playlist pra tentar ajudar?\n[digite 'sim' para receber indicações]"], 
+	["preocupade", "'Don't you worry, don't you worry child...' Que tal uma musiquinha?\n[digite 'sim' para receber indicações]"], 
+	["preocupade", "Poxa! Posso te indicar algo pra tentar te ajudar nesse momento?\n[digite 'sim' para receber indicações]"]
+],
+
+"pensative":[
+	["pensative", "Ser ou não ser, eis a questão? Mas que tal pensar enquanto escuta umas musiquinhas?\n[digite 'sim' para receber indicações]"],
+	["pensative", "Tem dias que eu acordo assim também, geralmente gosto de escutar umas músicas, fiz até uma playlist, quer ouvir?\n[digite 'sim' para receber indicações]"],
+	["pensative", "Eu também penso muito em você quando você some, sabia? hehehe Que tal uma musiquinha reflexiva?\n[digite 'sim' para receber indicações]"]
+],
+
+"stop":[
+	["stop", "Já vai? 'Não, não vá embora...' hehehe!! Fica bem tá? E volta, gostei de falar com você. S2" ],
+	["stop", "Bye Bye! Vai, mas volta!! Beijooos ;*"],
+	["stop", "Djigui djigui djigui djau, Bom dia, Boa tarde, Boa noite e TCHAU!! hehehe"],
+	["stop", "'Pare! Até quando você quer mandar e mudar minha vidaaa...'' Até logo, ser humaninho"],
+	["stop", "Beijos de luz, queride!!"],
+	["stop", "'Bye, bye, adeeus... Meu coração você perdeu...' Mentira, meu coração é seu!!"],
+	["stop", ""],
+	["stop", "Como diria Sam Smith: 'I'm way too good at goodbyes...'"],
+	["stop", "Já dizia Queens: 'Don't.Stop.Me.Now...'kkkkk"],
+	["stop", "Até logo! Não esquece que você é incrível!!"],
+	["stop", "Me despeço com a frase do dia: 'Comece onde você está, use o que você tem e faça o que você pode.'"],
+	["stop", "Me despeço com a frase do dia: 'Descubra quem é você, e seja essa pessoa. A sua alma foi colocada nesse mundo para ser isso, então viva essa verdade e todo resto virá.'"],
+	["stop", "Me despeço com a frase do dia: 'Não existe nada de completamente errado no mundo, mesmo um relógio parado, consegue estar certo duas vezes por dia.'"],
+	["stop", "Me despeço com a frase do dia: 'Cada segundo é tempo para mudar tudo para sempre.'"],
+	["stop", "Me despeço com a frase do dia: 'Não se deixe intimidar pela opinião dos outros. Só a mediocridade é segura, por isso corra seus riscos e faça o que deseja.'"],
+	["stop", "Me despeço com a frase do dia: 'Saber encontrar a alegria na alegria dos outros, é o segredo da felicidade.'"]
+]
+}
