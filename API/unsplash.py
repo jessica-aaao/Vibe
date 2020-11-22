@@ -1,4 +1,6 @@
 import subprocess
+from spotify import playlist
+from musicovery import moodMap, tag
 import json
 
 images = []

@@ -2,6 +2,7 @@
 #pip install spotipy --upgrade
 
 from spotipy.oauth2 import SpotifyClientCredentials
+from musicovery import moodPlaylist
 import spotipy
 import re
 from pprint import pprint
