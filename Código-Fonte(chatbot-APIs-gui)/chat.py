@@ -16,6 +16,7 @@ from io import BytesIO
 from chatterbot import preprocessors
 import sqlalchemy.sql.default_comparator
 import sqlalchemy.ext.baked
+import encodings
 
 global hasPlaylist
 global tag
