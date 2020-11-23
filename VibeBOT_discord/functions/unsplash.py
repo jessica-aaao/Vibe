@@ -23,7 +23,7 @@ imageMap = { # Mapeando o humor do Musicovery para um estilo de imagens
 
 def retImages(tag):
     images = []
-    results = requests.get(f"https://api.unsplash.com/search/photos?client_id=<CLIENT_ID>&page=1&query={imageMap[tag]}")
+    results = requests.get(f"https://api.unsplash.com/search/photos?client_id=<KEY_CLIENT_ID>&page=1&query={imageMap[tag]}")
     data = results.json()
     #data = json.loads(results) # Conversão de json para Dict de Python
     

@@ -7,7 +7,7 @@ import re
 from pprint import pprint
 import json
 
-client_credentials_manager = SpotifyClientCredentials(client_id='<CLIENT_ID>', client_secret='<CLIENT_SECRET>')
+client_credentials_manager = SpotifyClientCredentials(client_id='<KEY_CLIENT_ID>', client_secret='<KEY_CLIENT_SECRET>')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 def retSpotifyPlaylist(moodPlaylist):
