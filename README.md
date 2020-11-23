@@ -12,9 +12,9 @@ A ideia do VibeBot é ser um amigo virtual, através de conversa com o usuário,
 
 # Como Usar
 - Executável(Linux):
-    -No terminal abra a pasta "Executável(linux)": cd [path]/Vibe/Executável(linux)
-    -Digite ./chat
-    -Divirta-se com o nosso bot
+    - No terminal abra a pasta "Executável(linux)": cd [path]/Vibe/Executável(linux)
+    - Digite ./chat
+    - Divirta-se com o nosso bot
 
 - Discord:
     - Caso você deseja rodar o bot do discord por conta própria, será necessário um 'Client ID' e 'Client Secret' gerados ao solicitar uma aplicação no Spotify (https://developer.spotify.com/dashboard/applications). Quando estiver com ambas as keys em mãos, basta ir no código do 'spotify.py' e substituir na chamada da função "SpotifyClientCredentials".
