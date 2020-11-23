@@ -1,26 +1,27 @@
 {"start":[
-	["olá, vibe" , "Olá, como você está?"],
+	["olá, vibe", "Olá, como você está?"],
 	["olá, vibe", "Olá, pessoa maravilhosa!!! Como estamos hoje? Me conta"],
 	["olá, vibe", "Hello! It's me... :D Como você está hoje, raio de sol?"],
 	["oi " , "Opa, e aí, como estamos hoje?"],
-	["oi", "Olá, que bom que você chegou para alegrar o meu viver!! Como está?"],
-	["oi", "Oiê, como está esse humor hoje hein? Me conta..."]
+	["ola ", "Olá, que bom que você chegou para alegrar o meu viver!! Como está?"],
+	["oi ", "Oiê, como está esse humor hoje hein? Me conta..."]
 ],
 
 "conversinha":[
-	["estou bem! e você?" , "Estou ótimo!Obrigado por perguntar!! Como está seu humor hoje? "],
-	["muito boa" , "hehehe, sabia que iria gostar! Eu arraso muito!!"],
-	["você é demais" , "Ai para, assim eu fico sem graça, você que é maravilhose!! S2" ],
-	["valeu" , "Tamo junto!!" ],
-	["bom dia!" , "Bom diaaaa! Como estamos hoje??"],
-	["boa tarde!" , "Boa tarde! Qual a boa?" ],
-	["obrigado" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ], 
-	["obrigada" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],  
-	["obrigade" , "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],
-	["não" , "Que pena, fica pra próxima então!"],
-	["não", "Que rude, desprezar minhas indicações maravilhosas dessa forma, quem sai perdendo é você... rum"],
-	["não" , "Que não o que, rapá..." ],
-	["não" , "Tá bom, eu nem ia te enviar mesmo!!" ]
+	["Bem e voce?", "Estou ótimo! Obrigado por perguntar! Como está seu humor hoje?"],
+	["Estou bem! e voce?", "Tudo de boa! Como esta seu humor hoje?"],
+	["muito boa", "hehehe, sabia que iria gostar! Eu arraso muito!!"],
+	["você é demais", "Ai para, assim eu fico sem graça, você que é maravilhose!! S2"],
+	["valeu", "Tamo junto!!"],
+	["bom dia!", "Bom diaaaa! Como estamos hoje??"],
+	["boa tarde!", "Boa tarde! Qual a boa?" ],
+	["obrigado", "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ], 
+	["obrigada", "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],  
+	["obrigade", "Que é isso, é o minimo que posso fazer por uma pessoa tão especial!" ],
+	["não ", "Que pena, fica pra próxima então!"],
+	["não ", "Que rude, desprezar minhas indicações maravilhosas dessa forma, quem sai perdendo é você... rum"],
+	["não ", "Que não o que, rapá..."],
+	["não ", "Tá bom, eu nem ia te enviar mesmo!!" ]
 ],
 
 "feliz":[
@@ -79,7 +80,7 @@
 ],
 
 "cansade":[
-	["cansade", "Tem dias que a gente só quer uma cama pra deitar ne? Super te entendo, que tal aquela playlist pra embalar teu sono?"],
+	["cansade", "Tem dias que a gente só quer uma cama pra deitar ne? Super te entendo, que tal aquela playlist pra embalar teu sono? [digite 'sim' para receber indicações]"],
 	["cansade", "Poxa, espero que você consiga descansar logo. Mas eu tenho algo aqui que pode te ajudar, que ouvir?\n[digite 'sim' para receber indicações]"],
 	["cansade", "Ai, hoje eu também estou bem cansadinho. Tava escutando umas músicas que acho que você vai curtir, posso te mandar?\n[digite 'sim' para receber indicações]"]
 ],
