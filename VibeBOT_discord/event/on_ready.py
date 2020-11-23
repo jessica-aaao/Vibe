@@ -15,7 +15,7 @@ vibe = ChatBot(
 
 @bot.event
 async def on_ready():
-	await bot.change_presence(activity=discord.Game(name='Escreva .info para mais'))
+	await bot.change_presence(activity=discord.Game(name="Mande um 'Oi'"))
 	print('Vibe Chatterbot is Ready')
 
 
@@ -24,7 +24,7 @@ async def on_ready():
 	data_file = open('event/Bot.json').read()
 	with open('event/Bot.json', encoding='utf-8') as fh:
 		learn = json.load(fh)
-	#learn = json.loads(data_file)
+	learn = json.loads(data_file)
 	'''
 	for topic in learn:
 		for compliment in learn[topic]:

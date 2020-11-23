@@ -60,6 +60,7 @@ async def on_message(message):
 		await channel.send(f"{frase}")
 	'''
 	channel = message.channel
+	dm = message.author
 	hasPlaylist = 0
 
 	print("3")
@@ -140,7 +141,7 @@ async def on_message(message):
 	#Se a pessoa responder que quer escutar a playlist ( CONVERTER PRA DISC )	
 	if hasPlaylist == 1: #and message == "sim"):
 		print("6")
-		await channel.send("Aguarde enquanto montamos sua playlist :)")
+		await dm.send("Aguarde enquanto montamos sua playlist :)")
 		mapped = moodMap[tag]
 		print("7")
 		spotifyPlaylist = retSpotifyPlaylist(retPlaylist(mapped))
@@ -148,7 +149,7 @@ async def on_message(message):
 		embed.set_image(url=random.choice(retImages(mapped)))
 		for song in spotifyPlaylist:
 			embed.add_field(name = song[0] + " - " + song[1], value = song[2], inline = False)
-		await channel.send(embed=embed)
+		await dm.send(embed=embed)
 
 		hasPlaylist = 0
 	else:
@@ -157,10 +158,10 @@ async def on_message(message):
 			print("8")
 			response = vibe.get_response(message)
 			if float(response.confidence) >= 0.5:
-				await channel.send(f"{response}")
+				await dm.send(f"{response}")
 				print(f'\n{response}\n')			
 			else:
-				await channel.send(f"Desculpa, eu ainda não sei como responder isso!")
+				await dm.send(f"Desculpa, eu ainda não sei como responder isso!")
 				#print(f'\n{vibe.name}:Desculpa, eu ainda não sei como responder isso!\n')
 			#if (message == 'stop'):
 			#	pass
