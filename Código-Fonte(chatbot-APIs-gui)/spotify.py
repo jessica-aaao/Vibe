@@ -9,7 +9,7 @@ import json
 
 playlist = []
 
-client_credentials_manager = SpotifyClientCredentials(client_id='9c8e37e72c4648f29f96049b6d35a25b', client_secret='4e1484c71b804f1c9e81d4221352b351')
+client_credentials_manager = SpotifyClientCredentials(client_id="<KEY ID>", client_secret="<KEY SECRET>")
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 def retSpotifyPlaylist(moodPlaylist):

@@ -40,8 +40,8 @@ imageMap = { # Mapeando o humor do Musicovery para um estilo de imagens
 }
 
 def retImages(tag):
-    results = subprocess.check_output(f"curl 'https://api.unsplash.com/search/photos?client_id=9-9HgYFpThPjDatdIz1Q0hrRiPdvUcBcN0l5OAozI70&page=1&query={imageMap[moodMap[tag]]}'", shell=True)
-    #results = requests.get(f"https://api.unsplash.com/search/photos?client_id=9-9HgYFpThPjDatdIz1Q0hrRiPdvUcBcN0l5OAozI70&page=1&query={imageMap[moodMap[tag]]}")
+    results = subprocess.check_output(f"curl 'https://api.unsplash.com/search/photos?client_id=<client_id>&page=1&query={imageMap[moodMap[tag]]}'", shell=True)
+    #results = requests.get(f"https://api.unsplash.com/search/photos?client_id=<client_id>&page=1&query={imageMap[moodMap[tag]]}")
     data = json.loads(results) # Conversão de json para Dict de Python
     
     for image in data['results']:
